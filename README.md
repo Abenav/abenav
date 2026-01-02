@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Abenav Sunku
 
 🚀 **AI / Machine Learning Engineer | GenAI & Data Science Enthusiast**  
-🎓 B.Tech in CSE (AI & Robotics) | VIT Chennai  
+🎓 B.Tech in CSE in AI & Robotics | VIT Chennai  
 💼 Senior Consultant @ HCLTech | Former Systems Engineer @ TCS  
 
 ---
